@@ -606,7 +606,7 @@
             },
             "assets/mtr/metrocar/dmr.json": {
                 "mtime": 1744842608,
-                "sha1": "6bd6445e215caa3e85a9f95e75d3f0b19d2dc4d6",
+                "sha1": "f351777352988d44c6f5c992ca8e55892706a640",
                 "size": 43459,
                 "blame": "alivekrikan"
             },
@@ -624,7 +624,7 @@
             },
             "assets/mtr/mtr_custom_resources_pending_migration.json": {
                 "mtime": 1750697535,
-                "sha1": "638211c0400774f73c297b9c28aab1eb597f8909",
+                "sha1": "b000e274d82b01bd91c49a57924e0993e528c4e0",
                 "size": 9056,
                 "blame": "alivekrikan"
             },
@@ -1170,7 +1170,7 @@
             },
             "assets/mtr/sounds/metrocar/brakevol.csv": {
                 "mtime": 1744839590,
-                "sha1": "f9f4fd3b651aaf377de4efd84d3f3850781cc3cc",
+                "sha1": "839e20a41a27d03cba82d2203fb9f26abac8a6f2",
                 "size": 100,
                 "blame": "alivekrikan"
             },
@@ -1218,7 +1218,7 @@
             },
             "assets/mtr/sounds/metrocar/powerfreq.csv": {
                 "mtime": 1744839592,
-                "sha1": "26b7410744d169d49fd69cfb372118a0412fe9a5",
+                "sha1": "985c90b81fe897ebf61a6dc00c5d72293d71a7f5",
                 "size": 103,
                 "blame": "alivekrikan"
             },
