@@ -618,7 +618,7 @@
             },
             "assets/mtr/mtr_custom_resources.json": {
                 "mtime": 1745818436,
-                "sha1": "9077eb441f8d7528588d0cd912ea04299686bc51",
+                "sha1": "ce2d64caed966e766f9def4454a492b189c8680a",
                 "size": 1011905,
                 "blame": "alivekrikan"
             },
@@ -1224,7 +1224,7 @@
             },
             "assets/mtr/sounds/metrocar/powervol.csv": {
                 "mtime": 1744839592,
-                "sha1": "4baec07fc362d305db0bfaebc3a1ccad0a9697e7",
+                "sha1": "3ac4da18828fe9a2b7dd22f5b564bae62239dcce",
                 "size": 110,
                 "blame": "alivekrikan"
             },
