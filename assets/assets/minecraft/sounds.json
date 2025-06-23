@@ -1,0 +1,158 @@
+{
+	"line9_hongshan": {
+		"category": "master",
+		"sounds": [
+			"srs_hongshan"
+		]
+	},
+	"line9_kardy": {
+		"category": "master",
+		"sounds": [
+			"srs_kardyvillage"
+		]
+	},
+	"common_rainbowcoast": {
+		"category": "master",
+		"sounds": [
+			"bcl_and_oml_rainbowcoast"
+		]
+	},
+	"common_seapower": {
+		"category": "master",
+		"sounds": [
+			"bsl_and_ool_seapower"
+		]
+	},
+	"common_cosmospoint": {
+		"category": "master",
+		"sounds": [
+			"cosmospoint"
+		]
+	},
+	"common_hikarigaoka": {
+		"category": "master",
+		"sounds": [
+			"hikarigaoka"
+		]
+	},
+	"common_hikarijima": {
+		"category": "master",
+		"sounds": [
+			"hikarijima"
+		]
+	},
+	"common_lakeofheart": {
+		"category": "master",
+		"sounds": [
+			"lakeofheart"
+		]
+	},
+	"common_matsusama": {
+		"category": "master",
+		"sounds": [
+			"matsusama"
+		]
+	},
+	"common_northbay": {
+		"category": "master",
+		"sounds": [
+			"northbay"
+		]
+	},
+	"common_northport": {
+		"category": "master",
+		"sounds": [
+			"northport"
+		]
+	},
+	"common_notinservice": {
+		"category": "master",
+		"sounds": [
+			"notinservice"
+		]
+	},
+	"common_ottoland": {
+		"category": "master",
+		"sounds": [
+			"ottoland"
+		]
+	},
+	"common_podzolofabyssal": {
+		"category": "master",
+		"sounds": [
+			"podzolofabyssal"
+		]
+	},
+	"common_yokochoplains": {
+		"category": "master",
+		"sounds": [
+			"yokochoplains"
+		]
+	},
+	"common_railwayacademy": {
+		"category": "master",
+		"sounds": [
+			"bcl_and_bsl_railwayacademy"
+		]
+	},
+	"rikkashi": {
+        "sounds": [{
+            "name": "mtr:rikkashi"
+        }]
+	},
+	"orp1_rikkashi": {
+        "sounds": [{
+            "name": "mtr:rikkashi_arrival"
+        }]
+	},
+	"orp1_ishtakaba": {
+        "sounds": [{
+            "name": "mtr:ishtakaba"
+        }]
+	},
+	"orp2_einsburgwest": {
+        "sounds": [{
+            "name": "mtr:einsburgwest"
+        }]
+	},
+	"orp2_alphaislands": {
+        "sounds": [{
+            "name": "mtr:alphaislands"
+        }]
+	},
+	"orp2_gapyeong": {
+        "sounds": [{
+            "name": "mtr:gapyeong"
+        }]
+	},
+	"orp2_whitestone": {
+        "sounds": [{
+            "name": "mtr:whitestone"
+        }]
+	},
+	"orp2_kokorojima": {
+        "sounds": [{
+            "name": "mtr:kokorojima"
+        }]
+	},
+	"orp3_thamud": {
+        "sounds": [{
+            "name": "mtr:thamudoasis"
+        }]
+	},
+	"orp3_kamikita": {
+        "sounds": [{
+            "name": "mtr:kamikita"
+        }]
+	},
+	"ormusic": {
+        "sounds": [{
+            "name": "mtr:or_approach"
+        }]
+	},
+	"or_notinservice": {
+        "sounds": [{
+            "name": "mtr:notinservice"
+        }]
+	}
+}

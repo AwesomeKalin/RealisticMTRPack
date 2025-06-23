@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "localPackName": "SyncedPack",
+    "disableBuiltinSources": true,
+    "sources": [
+        {
+            "name": "GitHub Pages",
+            "baseUrl": "https://awesomekalin.github.io/RealisticMTRPack",
+            "hasDirHash": true,
+            "hasArchive": false
+        }
+    ]
+}
