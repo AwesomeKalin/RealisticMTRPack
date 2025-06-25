@@ -19663,6 +19663,330 @@
             "legacyConstantPlaybackSpeed": false,
             "legacyDoorSoundBaseResource": "sp1900",
             "legacyDoorCloseSoundTime": 0.5
+        },
+        {
+            "id": "mtr_custom_train_209_500_standard_trailer_rr",
+            "name": "209-500 (Republika Railways Livery, Standard gauge) (Trailer)",
+            "color": "0091FF",
+            "transportMode": "TRAIN",
+            "length": 20.0,
+            "width": 2.0,
+            "bogie1Position": -6.8,
+            "bogie2Position": 6.8,
+            "couplingPadding1": 0.0,
+            "couplingPadding2": 0.0,
+            "description": "This version of 209-500 runs on Standard gauge (1435mm) tracks.",
+            "wikipediaArticle": "209_series",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500_rr.png",
+                    "modelPropertiesResource": "mtr:properties/209_500_trailer.json",
+                    "positionDefinitionsResource": "mtr:definitions/209_500_trailer.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500/209_500.png",
+                    "modelPropertiesResource": "mtr:properties/bogie_standard_guage.json",
+                    "positionDefinitionsResource": "mtr:definitions/bogie_standard_guage.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500/209_500.png",
+                    "modelPropertiesResource": "mtr:properties/bogie_standard_guage.json",
+                    "positionDefinitionsResource": "mtr:definitions/bogie_standard_guage.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "",
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "r179",
+            "legacyDoorCloseSoundTime": 1.0
+        },
+        {
+            "id": "mtr_custom_train_209_500_standard_head_rr",
+            "name": "209-500 (Republika Railways Livery, Standard gauge) (Forward cab)",
+            "color": "0091FF",
+            "transportMode": "TRAIN",
+            "length": 20.0,
+            "width": 2.0,
+            "bogie1Position": -6.8,
+            "bogie2Position": 6.8,
+            "couplingPadding1": 0.0,
+            "couplingPadding2": 0.0,
+            "description": "This version of 209-500 runs on Standard gauge (1435mm) tracks.",
+            "wikipediaArticle": "209_series",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500_rr.png",
+                    "modelPropertiesResource": "mtr:properties/209_500_cab1.json",
+                    "positionDefinitionsResource": "mtr:definitions/209_500_cab1.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500/209_500.png",
+                    "modelPropertiesResource": "mtr:properties/bogie_standard_guage.json",
+                    "positionDefinitionsResource": "mtr:definitions/bogie_standard_guage.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500/209_500.png",
+                    "modelPropertiesResource": "mtr:properties/bogie_standard_guage.json",
+                    "positionDefinitionsResource": "mtr:definitions/bogie_standard_guage.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "",
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "r179",
+            "legacyDoorCloseSoundTime": 1.0
+        },
+        {
+            "id": "mtr_custom_train_209_500_standard_head_2_rr",
+            "name": "209-500 (Republika Railways Livery, Standard gauge) (Back cab)",
+            "color": "0091FF",
+            "transportMode": "TRAIN",
+            "length": 20.0,
+            "width": 2.0,
+            "bogie1Position": -6.8,
+            "bogie2Position": 6.8,
+            "couplingPadding1": 0.0,
+            "couplingPadding2": 0.0,
+            "description": "This version of 209-500 runs on Standard gauge (1435mm) tracks.",
+            "wikipediaArticle": "209_series",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500_rr.png",
+                    "modelPropertiesResource": "mtr:properties/209_500_cab2.json",
+                    "positionDefinitionsResource": "mtr:definitions/209_500_cab2.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500/209_500.png",
+                    "modelPropertiesResource": "mtr:properties/bogie_standard_guage.json",
+                    "positionDefinitionsResource": "mtr:definitions/bogie_standard_guage.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500/209_500.png",
+                    "modelPropertiesResource": "mtr:properties/bogie_standard_guage.json",
+                    "positionDefinitionsResource": "mtr:definitions/bogie_standard_guage.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": false,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "",
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "r179",
+            "legacyDoorCloseSoundTime": 1.0
+        },
+        {
+            "id": "mtr_custom_train_209_500_cape_trailer_rr",
+            "name": "209-500 (Republika Railways Livery, Cape gauge) (Trailer)",
+            "color": "0091FF",
+            "transportMode": "TRAIN",
+            "length": 20.0,
+            "width": 2.0,
+            "bogie1Position": -6.8,
+            "bogie2Position": 6.8,
+            "couplingPadding1": 0.0,
+            "couplingPadding2": 0.0,
+            "description": "This version of 209-500 runs on Cape gauge (1067mm) tracks.",
+            "wikipediaArticle": "209_series",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500_rr.png",
+                    "modelPropertiesResource": "mtr:properties/209_500_trailer.json",
+                    "positionDefinitionsResource": "mtr:definitions/209_500_trailer.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500/209_500.png",
+                    "modelPropertiesResource": "mtr:properties/bogie_cape_guage.json",
+                    "positionDefinitionsResource": "mtr:definitions/bogie_cape_guage.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500/209_500.png",
+                    "modelPropertiesResource": "mtr:properties/bogie_cape_guage.json",
+                    "positionDefinitionsResource": "mtr:definitions/bogie_cape_guage.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "",
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "r179",
+            "legacyDoorCloseSoundTime": 1.0
+        },
+        {
+            "id": "mtr_custom_train_209_500_cape_head_rr",
+            "name": "209-500 (Republika Railways Livery, Cape gauge) (Forward cab)",
+            "color": "0091FF",
+            "transportMode": "TRAIN",
+            "length": 20.0,
+            "width": 2.0,
+            "bogie1Position": -6.8,
+            "bogie2Position": 6.8,
+            "couplingPadding1": 0.0,
+            "couplingPadding2": 0.0,
+            "description": "This version of 209-500 runs on Cape gauge (1067mm) tracks.",
+            "wikipediaArticle": "209_series",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500_rr.png",
+                    "modelPropertiesResource": "mtr:properties/209_500_cab1.json",
+                    "positionDefinitionsResource": "mtr:definitions/209_500_cab1.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500/209_500.png",
+                    "modelPropertiesResource": "mtr:properties/bogie_cape_guage.json",
+                    "positionDefinitionsResource": "mtr:definitions/bogie_cape_guage.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500/209_500.png",
+                    "modelPropertiesResource": "mtr:properties/bogie_cape_guage.json",
+                    "positionDefinitionsResource": "mtr:definitions/bogie_cape_guage.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": false,
+            "hasGangway2": true,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "",
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "r179",
+            "legacyDoorCloseSoundTime": 1.0
+        },
+        {
+            "id": "mtr_custom_train_209_500_cape_head_2_rr",
+            "name": "209-500 (Republika Railways Livery, Cape gauge) (Back cab)",
+            "color": "0091FF",
+            "transportMode": "TRAIN",
+            "length": 20.0,
+            "width": 2.0,
+            "bogie1Position": -6.8,
+            "bogie2Position": 6.8,
+            "couplingPadding1": 0.0,
+            "couplingPadding2": 0.0,
+            "description": "This version of 209-500 runs on Cape gauge (1067mm) tracks.",
+            "wikipediaArticle": "209_series",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500_rr.png",
+                    "modelPropertiesResource": "mtr:properties/209_500_cab2.json",
+                    "positionDefinitionsResource": "mtr:definitions/209_500_cab2.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie1Models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500/209_500.png",
+                    "modelPropertiesResource": "mtr:properties/bogie_cape_guage.json",
+                    "positionDefinitionsResource": "mtr:definitions/bogie_cape_guage.json",
+                    "flipTextureV": true
+                }
+            ],
+            "bogie2Models": [
+                {
+                    "modelResource": "mtr:209_500/209_500.bbmodel",
+                    "textureResource": "mtr:209_500/209_500.png",
+                    "modelPropertiesResource": "mtr:properties/bogie_cape_guage.json",
+                    "positionDefinitionsResource": "mtr:definitions/bogie_cape_guage.json",
+                    "flipTextureV": true
+                }
+            ],
+            "hasGangway1": true,
+            "hasGangway2": false,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": 0.0,
+            "bveSoundBaseResource": "",
+            "legacySpeedSoundBaseResource": "sp1900",
+            "legacySpeedSoundCount": 120,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "r179",
+            "legacyDoorCloseSoundTime": 1.0
         }
     ],
     "signs": [
