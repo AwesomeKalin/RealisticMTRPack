@@ -121,6 +121,21 @@
                 "blame": [
                     "alivekrikan"
                 ]
+            },
+            "assets/mtrsteamloco": {
+                "blame": [
+                    "alivekrikan"
+                ]
+            },
+            "assets/mtrsteamloco/eyecandies": {
+                "blame": [
+                    "alivekrikan"
+                ]
+            },
+            "assets/mtrsteamloco/rails": {
+                "blame": [
+                    "alivekrikan"
+                ]
             }
         },
         "files": {
@@ -1406,6 +1421,930 @@
                 "mtime": 1689599784,
                 "sha1": "3a7d304b03666db43b773397c80e7899befd5b7c",
                 "size": 4836,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/arrow.png": {
+                "mtime": 1705837635,
+                "sha1": "49573c215e7bb002269d10280faa50ddfe922c8d",
+                "size": 8269,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/arrow_dir_l.png": {
+                "mtime": 1705838639,
+                "sha1": "624001348fa56cde723ce3a3d5745b5730705134",
+                "size": 13084,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/arrow_dir_s.png": {
+                "mtime": 1705838715,
+                "sha1": "fe5b14db16a6b48793e9f58064481001bf606f8b",
+                "size": 10690,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/arrow_fat_rt.png": {
+                "mtime": 1705675413,
+                "sha1": "7e4f1d513cb4378488b98b9ccd46790f8cbab457",
+                "size": 5158,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/highway_sign_3by1.png": {
+                "mtime": 1705675353,
+                "sha1": "1d4e99a8cf9964928c2799d1ba21200db31ea0e4",
+                "size": 10585,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/highway_sign_3by2.png": {
+                "mtime": 1705674939,
+                "sha1": "c7bd08b0ed84055454a1c98be3cb41e521840a60",
+                "size": 12944,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/manhole-sanitary.png": {
+                "mtime": 1712356163,
+                "sha1": "c07cb035336b332c4cd0e150b68bcbc4977a0d8b",
+                "size": 30420,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/manhole-storm-rusty.png": {
+                "mtime": 1712356265,
+                "sha1": "1b0a62aaa45cf9a4057d34686d0492fe8c5f1aba",
+                "size": 35937,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/manhole-storm.png": {
+                "mtime": 1712356285,
+                "sha1": "3860644cfc334ea7e30c8894d7954e7e1c111950",
+                "size": 26791,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/metal.png": {
+                "mtime": 1713627921,
+                "sha1": "b643f589cc36874ab1bc225be2f192436d7fbf86",
+                "size": 379,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/metal_bright.png": {
+                "mtime": 1713627975,
+                "sha1": "579271d6b37bb1b729f625bafe0359cc57092dcd",
+                "size": 381,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/metal_rusty.png": {
+                "mtime": 1707072362,
+                "sha1": "096d807f809ec57ffd37cf4a0d56e40407764947",
+                "size": 33769,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/metal_rusty_bright.png": {
+                "mtime": 1707073085,
+                "sha1": "aee23941cd8a1c10eab701ff54b0c58ba385fc86",
+                "size": 33166,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/rectircle.png": {
+                "mtime": 1705682579,
+                "sha1": "47a72daf584b91cf08747a1ebdfa2bd096df6b9d",
+                "size": 4804,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/roundabout.png": {
+                "mtime": 1705675376,
+                "sha1": "dcde7c70ad77aa3e4ca1879f9b5abe2bcf26312d",
+                "size": 15096,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signpost2dir.png": {
+                "mtime": 1705647274,
+                "sha1": "a4d438e7329c786ddc88231ff9d1c50c4452c0ba",
+                "size": 22885,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signspeed.mtl": {
+                "mtime": 1707326681,
+                "sha1": "eb3e2e8665902afb69e04c96422ad9f476755e7f",
+                "size": 239,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signspeed.obj": {
+                "mtime": 1707326681,
+                "sha1": "b15c04ee55a9843130be230c9f60a77eed6f81b9",
+                "size": 2161,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signstop.mtl": {
+                "mtime": 1707325588,
+                "sha1": "8853e1ea170a82c79535c125c2c0c6f0f1a8af10",
+                "size": 235,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signstop.obj": {
+                "mtime": 1707325588,
+                "sha1": "721de8864eb5e93351f72f99859fe34aa37c88c3",
+                "size": 5596,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signstoprusty.mtl": {
+                "mtime": 1707073165,
+                "sha1": "0270cc792b419720ec2e1ac8bc1b698f9900878d",
+                "size": 254,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signstoprusty.obj": {
+                "mtime": 1707073165,
+                "sha1": "a211ce32469263bf9cb133a62e6ce75e03dc3672",
+                "size": 5601,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signwarning.mtl": {
+                "mtime": 1707325688,
+                "sha1": "41b1cf9a2a9ab3be86b98d412060167db4c61c30",
+                "size": 238,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signwarning.obj": {
+                "mtime": 1707325688,
+                "sha1": "7e1498335abb36a281cdf4eee521674b790ced40",
+                "size": 3760,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signwarningdouble.mtl": {
+                "mtime": 1707325752,
+                "sha1": "101247b47cb55435bd84f0ab952a73f8af3d61b7",
+                "size": 306,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signwarningdouble.obj": {
+                "mtime": 1707325752,
+                "sha1": "d5950eda2a15510bf35a1194fcc7cfc786321afb",
+                "size": 6684,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signwarningplaque.mtl": {
+                "mtime": 1707325828,
+                "sha1": "1ea27377f614b2c58885a908d9b700dbf341cfd2",
+                "size": 312,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signwarningplaque.obj": {
+                "mtime": 1707325828,
+                "sha1": "ed64e059cbb75ba8eee1acb0397733e3115489e5",
+                "size": 4948,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signwarningrusty.mtl": {
+                "mtime": 1707427794,
+                "sha1": "29bea493fe4a44a16ebc79db6bb7fd8e490c87f5",
+                "size": 259,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signwarningrusty.obj": {
+                "mtime": 1707427794,
+                "sha1": "58aacc923d5692661413902b39bc2cb9abac55e4",
+                "size": 3843,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signyield.mtl": {
+                "mtime": 1707325526,
+                "sha1": "a181929a7a10e5e477058dc0310a9346b21e6a6e",
+                "size": 236,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signyield.obj": {
+                "mtime": 1707325526,
+                "sha1": "6ae75ca1030c7f184bfaa24ca793183bf5c4c67f",
+                "size": 2835,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signyieldrusty.mtl": {
+                "mtime": 1707084449,
+                "sha1": "6bdf6b973078a0818121e42e8a060e029199c87f",
+                "size": 254,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/signyieldrusty.obj": {
+                "mtime": 1707084449,
+                "sha1": "4ca415ac2073e9f73360330b90e60df86ee4041f",
+                "size": 2840,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/things.json": {
+                "mtime": 1713628500,
+                "sha1": "bc5e477aedf3c9163abf6a15e9fb8815f7a74306",
+                "size": 924,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-bend-left.png": {
+                "mtime": 1582029759,
+                "sha1": "5b79b5d26ee3ea309496f84e6b8dad60c42db4e5",
+                "size": 6377,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-bend-right.png": {
+                "mtime": 1582031442,
+                "sha1": "1a7933c12bafcfdede936bf5563e9d1b9848d75a",
+                "size": 6358,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-blasting-zone-ahead.png": {
+                "mtime": 1582803117,
+                "sha1": "bee8aa21ec199f994f54089a2015ca494a364ee9",
+                "size": 9212,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-blasting-zone-end.png": {
+                "mtime": 1582803174,
+                "sha1": "97b1e71ee6a66461032abf425f500b4e4700a988",
+                "size": 7601,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-blasting-zone.png": {
+                "mtime": 1582803159,
+                "sha1": "5151616a7beb6ef52571a3a4ebb43fa749908d2f",
+                "size": 9037,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-bridge.png": {
+                "mtime": 1582113791,
+                "sha1": "369cf6573d7b281af64ac0d097a2b13292fbaf63",
+                "size": 12954,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-chevron.png": {
+                "mtime": 1582112060,
+                "sha1": "bfc3d3b93f0b98e314b36f72b9420b0d0f85cef5",
+                "size": 7062,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-crossroads.png": {
+                "mtime": 1582034253,
+                "sha1": "3e387ee8573e76e2b8301fce169f3213b119575a",
+                "size": 5181,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-dead-end-rusty.png": {
+                "mtime": 1676812147,
+                "sha1": "43b7ac82c0fae805095bc07a9d58d1adfd433c59",
+                "size": 51728,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-detour-end.png": {
+                "mtime": 1582736899,
+                "sha1": "234b805f0aaa42916be416e905e8d92783eada14",
+                "size": 6639,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-detour-left.png": {
+                "mtime": 1582737018,
+                "sha1": "5ee3d49e6fa9818c20cff2964e2b5079f202cd97",
+                "size": 9140,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-detour-right.png": {
+                "mtime": 1582736920,
+                "sha1": "68d37f0d35f50165e40adc1fcaefaa6633453a37",
+                "size": 5422,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-divided-highway.png": {
+                "mtime": 1642145353,
+                "sha1": "21d0823a57a17375df070c49e6a9e8d22028da5c",
+                "size": 11103,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-division.png": {
+                "mtime": 1582053178,
+                "sha1": "6fc53783d75a24cce7b298973e010af5d2e3ad8b",
+                "size": 8722,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-falling-rocks.png": {
+                "mtime": 1707322922,
+                "sha1": "c1eb609d390473e6a27fc02f9da6069eab364133",
+                "size": 7332,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-ford.png": {
+                "mtime": 1582113466,
+                "sha1": "9195a0c61c8ee753405ef364f5fedfcc96e41ed9",
+                "size": 11652,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-hairpin-left.png": {
+                "mtime": 1582031789,
+                "sha1": "634ac37048cc63761e45ea6ef7025ad6326c667f",
+                "size": 6669,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-hairpin-right.png": {
+                "mtime": 1582032820,
+                "sha1": "1a2268f57b3d0839d18d80e9793eddf09f6cc69a",
+                "size": 6703,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-keep-right.png": {
+                "mtime": 1582055343,
+                "sha1": "4b71e50432f990ae41f26b83bc3f5184049d7d34",
+                "size": 10884,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-merge.png": {
+                "mtime": 1582053224,
+                "sha1": "586018de11cc57d024298c91a439f13bcafb6201",
+                "size": 6227,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-narrow-marker.png": {
+                "mtime": 1591712171,
+                "sha1": "a72d865be4c5520673637d7fe5ab472b63cdba28",
+                "size": 5367,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-no-center-line.png": {
+                "mtime": 1633272167,
+                "sha1": "5e04ca3026038de7313a0aebbfb81d2f803e512b",
+                "size": 9311,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-no-entry.png": {
+                "mtime": 1583842779,
+                "sha1": "2132d327c226b5a60401b57062abe0df48413b7c",
+                "size": 9743,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-one-way-left.png": {
+                "mtime": 1591642573,
+                "sha1": "7a442672955a20c9b6e9c5d39f404dcf2d20bce1",
+                "size": 11075,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-one-way-right.png": {
+                "mtime": 1591642614,
+                "sha1": "dbb2f46409d91c389cf9deba585e4518073d73eb",
+                "size": 11076,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-pavement-ends.png": {
+                "mtime": 1591719822,
+                "sha1": "8ada13cf5f0886f0d98b382e133e8de161aa3795",
+                "size": 9878,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-pedestrians.png": {
+                "mtime": 1599407147,
+                "sha1": "58c8e116bef94c6e99a189ffe3d9924556eb7c16",
+                "size": 7810,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-plaque-empty.png": {
+                "mtime": 1707323579,
+                "sha1": "695c36f7083e0bf0b5f2f3fa524cf0af57374a58",
+                "size": 12736,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-plaque-for-1km.png": {
+                "mtime": 1631727825,
+                "sha1": "e99f8d9d82e20154b1d1ccb19c0eb5bb35f7c658",
+                "size": 4868,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-plaque-for-2km.png": {
+                "mtime": 1631727708,
+                "sha1": "d2fca5af38775cd65bdec486b1e780f95329b1ce",
+                "size": 5159,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-railroad-crossing.png": {
+                "mtime": 1582108186,
+                "sha1": "e9efae63b536c9781cb14475c3eb8f172d639d83",
+                "size": 10130,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-railroad.png": {
+                "mtime": 1582053650,
+                "sha1": "4ee6cc2f9ab2178b2d0bd13c6e7ef2926386f983",
+                "size": 12766,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-rest-area-P-WC.png": {
+                "mtime": 1594033116,
+                "sha1": "617df5cb74c8519a8919c4d7a416da22518d4cfd",
+                "size": 19035,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-right-turn-only.png": {
+                "mtime": 1598986141,
+                "sha1": "d3c9af7854bbc4b21a486a9f2e5663476f0e14d4",
+                "size": 6221,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-road-closed-ahead.png": {
+                "mtime": 1582886221,
+                "sha1": "54b95ec91efa2736dae645a146df3e673fa756e3",
+                "size": 12269,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-road-closed.png": {
+                "mtime": 1582736940,
+                "sha1": "535bc1d689798e97d0e18cc825fe1c9bd8e1e046",
+                "size": 4854,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-road-narrows.png": {
+                "mtime": 1583843524,
+                "sha1": "541ade28aec6ceea156db816b6ece0cb4bd375b3",
+                "size": 5977,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-roadworks-end.png": {
+                "mtime": 1593535109,
+                "sha1": "54db3f2a8600249703c21fc3eb3efa600da8d22f",
+                "size": 8999,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-roadworks.png": {
+                "mtime": 1582114426,
+                "sha1": "5f75747de14fb0fc186cf720d1829460bb3befc7",
+                "size": 7379,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-rough-road.png": {
+                "mtime": 1582114700,
+                "sha1": "fa970fe70126e33f77da3eb88f2777c13a017d97",
+                "size": 12697,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-roundabout.png": {
+                "mtime": 1582031810,
+                "sha1": "125f0b430d2b55b5a3642e531480a0f9deb20b27",
+                "size": 8834,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-side-road-135-left.png": {
+                "mtime": 1582034470,
+                "sha1": "5c82b2640e7857c0e019ad65857f091ce0297d31",
+                "size": 5613,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-side-road-135-right.png": {
+                "mtime": 1582034482,
+                "sha1": "ace00f5cd7f206e7a52ec60db680b3f2a6f678a2",
+                "size": 5625,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-side-road-45-left.png": {
+                "mtime": 1582034242,
+                "sha1": "bc499abc4fddbe4475e0e8105fa906395298e134",
+                "size": 5620,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-side-road-45-right.png": {
+                "mtime": 1582034287,
+                "sha1": "ca1be94b01a90a2c86c173df7d3d37ef4d6a836d",
+                "size": 5644,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-side-road-90-left.png": {
+                "mtime": 1582034191,
+                "sha1": "1d5472d752a72c2f498bd2b23b881ac5aa803bda",
+                "size": 5102,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-side-road-90-right.png": {
+                "mtime": 1582034277,
+                "sha1": "d1744dc6c6c172d29296bbe916f24265770307a3",
+                "size": 5123,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-side-road-90-rusty.png": {
+                "mtime": 1676712661,
+                "sha1": "b7d4fb2e226cfa706eedf7fe368ff6577e2e9564",
+                "size": 37061,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-side-road-double.png": {
+                "mtime": 1582101256,
+                "sha1": "eeb2bae3ce1358cd69ee3b153a6987b956d0a5a4",
+                "size": 4915,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-side-road-offset-right.png": {
+                "mtime": 1582112617,
+                "sha1": "028e38ac81066cbfd650a07e7965e82abb1fd364",
+                "size": 5399,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-side-road-offset.png": {
+                "mtime": 1582101226,
+                "sha1": "4fc8b5a5e62f88f82cc735523abf0eed759bef34",
+                "size": 5380,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-speed-60.png": {
+                "mtime": 1707326444,
+                "sha1": "bc2737d0841da4c46dc577a2212545a1e7e9010d",
+                "size": 25723,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-speed-empty.png": {
+                "mtime": 1707326417,
+                "sha1": "918d4cac65888850fa3f06f521815a5c8a081abb",
+                "size": 20190,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-steep-ascent.png": {
+                "mtime": 1707322148,
+                "sha1": "57ef631fad5f1ca3e8199fb8645d74ad2b6f20a0",
+                "size": 7426,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-steep-descent.png": {
+                "mtime": 1707322136,
+                "sha1": "8d8e97f98695c1ef27bdccfe22920b47a7cdc7b7",
+                "size": 7455,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-steep-drops.png": {
+                "mtime": 1582033996,
+                "sha1": "c833f9597d5afbec1b586dec7e07d47d4f5a534d",
+                "size": 12678,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-stop-rusty.png": {
+                "mtime": 1676668984,
+                "sha1": "1a57c90a2b10a0f83208bd86d576fa83322d7a1c",
+                "size": 52941,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-stop-rusty2.png": {
+                "mtime": 1676709802,
+                "sha1": "d9849412e1102f526cdc5c73896c4b1762413de2",
+                "size": 52249,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-stop-rusty3.png": {
+                "mtime": 1707073540,
+                "sha1": "417d8fa85fcb9904e20ea2cbf3627483a231f55f",
+                "size": 41287,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-stop.png": {
+                "mtime": 1583842687,
+                "sha1": "bdd27f48c4ce613c235b1ec0dc3a44f37c45190c",
+                "size": 7456,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-t-junction.png": {
+                "mtime": 1582112209,
+                "sha1": "2bbc198058231d785695eda9e07747c4f5de5823",
+                "size": 4791,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-tunnel.png": {
+                "mtime": 1582113353,
+                "sha1": "60b0b3492ce0ad9977e417e68edc44f6ae5b6b9c",
+                "size": 11367,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-turn-left-rusty.png": {
+                "mtime": 1676658540,
+                "sha1": "55b7e8e557915e5cfa5d68b6f49e8887e8d7c556",
+                "size": 37401,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-turn-left.png": {
+                "mtime": 1582031725,
+                "sha1": "aaea94a703446d32d8cc24ae9e72f718642d103f",
+                "size": 6336,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-turn-reverse-left.png": {
+                "mtime": 1582102388,
+                "sha1": "230b950e0d30c17c096b44519ccd1c9712f18c4a",
+                "size": 7216,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-turn-reverse-right.png": {
+                "mtime": 1582102409,
+                "sha1": "d1e72a6189bf48091319d88f7906dd6b72cae911",
+                "size": 7190,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-turn-right-rusty.png": {
+                "mtime": 1676658753,
+                "sha1": "20022a40e61f2f07f3d652ded6d4940ddbb2c92b",
+                "size": 47287,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-turn-right.png": {
+                "mtime": 1582032840,
+                "sha1": "adcfe519a7e839caa6fb072f3d4b3c637c800c14",
+                "size": 6336,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-two-way.png": {
+                "mtime": 1582053194,
+                "sha1": "c79b9aa3a368ac0c364be3f08d4ecfd88add6b76",
+                "size": 7085,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-warning-empty-rusty.png": {
+                "mtime": 1707323409,
+                "sha1": "44468566a9af5c187e9f06028209c02ea9457886",
+                "size": 45647,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-warning-empty.png": {
+                "mtime": 1707323051,
+                "sha1": "6bf3b2770589a6dbc882d87aaeeb25c967267914",
+                "size": 16035,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-wind.png": {
+                "mtime": 1707322910,
+                "sha1": "28b2718eb6975150a271d72402d811b74c66a9ba",
+                "size": 7080,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-winding-rusty.png": {
+                "mtime": 1676656330,
+                "sha1": "df743232c9ebb6627b57cf8ea5f213e81c08d8be",
+                "size": 39801,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-winding.png": {
+                "mtime": 1582031747,
+                "sha1": "e1a24af7ad24d793765ebee9850de0b7fe96ec79",
+                "size": 7425,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-y-junction.png": {
+                "mtime": 1582112223,
+                "sha1": "cb747447fa3e2488705b058f7f1d04dc10959972",
+                "size": 5687,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-yield-roundabout.png": {
+                "mtime": 1583843030,
+                "sha1": "4e213f2e24e2dc4df5f3405084391b308d5de119",
+                "size": 15967,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-yield-rusty.png": {
+                "mtime": 1676710607,
+                "sha1": "51040825999254f8c70a94644f373e60091c28fe",
+                "size": 45988,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/eyecandies/v-yield.png": {
+                "mtime": 1583842480,
+                "sha1": "1881e433e71251d51c210a1de8aa89f715bc2e88",
+                "size": 16733,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/guardrail.mtl": {
+                "mtime": 1707071545,
+                "sha1": "8f5d15b708d09320671e7f29617b5b6d6f624f95",
+                "size": 101,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/guardrail.obj": {
+                "mtime": 1707071545,
+                "sha1": "e03bcc78a098289153f96948045ff5e804786a6b",
+                "size": 3391,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/guardrail_central.mtl": {
+                "mtime": 1709731754,
+                "sha1": "8f5d15b708d09320671e7f29617b5b6d6f624f95",
+                "size": 101,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/guardrail_central.obj": {
+                "mtime": 1709731754,
+                "sha1": "fa99240e868ff499236e380c22e2d463496e43ac",
+                "size": 3375,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/guardrail_double.mtl": {
+                "mtime": 1709732068,
+                "sha1": "8f5d15b708d09320671e7f29617b5b6d6f624f95",
+                "size": 101,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/guardrail_double.obj": {
+                "mtime": 1709732068,
+                "sha1": "d9065bb4bd61d0aacf7e4d657f72d08e4a539a3d",
+                "size": 7602,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/line2w5.mtl": {
+                "mtime": 1709751912,
+                "sha1": "4c129afe0526e27eebd10addbe21d5dd496af4e8",
+                "size": 106,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/line2w5.obj": {
+                "mtime": 1709751912,
+                "sha1": "3fd6ab90de7bfddb5d8b99092b4049422b0959d3",
+                "size": 735,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/line2y5.mtl": {
+                "mtime": 1709751933,
+                "sha1": "633611c6e8060dac87c6235437c0ee83d81f7f33",
+                "size": 107,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/line2y5.obj": {
+                "mtime": 1709751933,
+                "sha1": "47ee2519c6ec5dca64d25bc72f26ca429612017f",
+                "size": 735,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/linedoubley.mtl": {
+                "mtime": 1709752001,
+                "sha1": "633611c6e8060dac87c6235437c0ee83d81f7f33",
+                "size": 107,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/linedoubley.obj": {
+                "mtime": 1709752001,
+                "sha1": "a674faba5e651edfadcf3994e08aa825faa0f047",
+                "size": 1478,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/line_white.png": {
+                "mtime": 1709751813,
+                "sha1": "f5fa7b06a7e0cb5161e61fe73910c58aa034469c",
+                "size": 510,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/line_yellow.png": {
+                "mtime": 1709751787,
+                "sha1": "5d6db2b50dc56c4c0b3f5919a1d62f4e1c247cd4",
+                "size": 510,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/metal.png": {
+                "mtime": 1713627975,
+                "sha1": "579271d6b37bb1b729f625bafe0359cc57092dcd",
+                "size": 381,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road5.png": {
+                "mtime": 1705155706,
+                "sha1": "216fe96e813d4ace69446395be63a714c1bf45ad",
+                "size": 817,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road5n.mtl": {
+                "mtime": 1710919313,
+                "sha1": "e6e67f1ba42ffa44a0896271f6f87bbb654bfc8d",
+                "size": 102,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road5n.obj": {
+                "mtime": 1710919313,
+                "sha1": "7faa406609768297b8c837bc523dc11c260c2df7",
+                "size": 946,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road5n.png": {
+                "mtime": 1705155706,
+                "sha1": "216fe96e813d4ace69446395be63a714c1bf45ad",
+                "size": 817,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road5o.mtl": {
+                "mtime": 1710919256,
+                "sha1": "49287bd8750dcb83277c25ae6eec41ea164774df",
+                "size": 102,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road5o.obj": {
+                "mtime": 1710919256,
+                "sha1": "d0682884686412bd3019506760062ea358d161f0",
+                "size": 946,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road5o.png": {
+                "mtime": 1709755873,
+                "sha1": "d85e94a37df21cd1926855d5dbbc5077b0d594ef",
+                "size": 5124,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road5to7.png": {
+                "mtime": 1705156995,
+                "sha1": "2a1b656a9adccd78c6650e17f60aae009a514ca6",
+                "size": 1072,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road5to7n.mtl": {
+                "mtime": 1710919103,
+                "sha1": "d57dcb9c78fe9cd6b0cee6f49ed0f15e726d20c8",
+                "size": 105,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road5to7n.obj": {
+                "mtime": 1710919103,
+                "sha1": "656da1ec7f04370771d8384f20f778720d945b76",
+                "size": 809,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road5to7n.png": {
+                "mtime": 1705156995,
+                "sha1": "2a1b656a9adccd78c6650e17f60aae009a514ca6",
+                "size": 1072,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road7n.mtl": {
+                "mtime": 1710918911,
+                "sha1": "8cc39edd3558bdcbf63fc7d0977ec6550a450b78",
+                "size": 102,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road7n.obj": {
+                "mtime": 1710918911,
+                "sha1": "c417f7bfc81b6012fd30bf489d6716f6f14bc1bb",
+                "size": 882,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road7n.png": {
+                "mtime": 1705149915,
+                "sha1": "557e6d3794c3b3bc8c00cbd6cda3031d15b6e5a9",
+                "size": 968,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road7ndy.mtl": {
+                "mtime": 1710919031,
+                "sha1": "52e05a38fa3dca7cb5938d61cbfce5b7be787670",
+                "size": 104,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road7ndy.obj": {
+                "mtime": 1710919031,
+                "sha1": "810a5df3a76b76a5d7153b68608045fdf74bab15",
+                "size": 884,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road7ndy.png": {
+                "mtime": 1700641954,
+                "sha1": "91ee8aa798e01fbc9e6c6fbcd6329d703f08b28a",
+                "size": 973,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road7o.mtl": {
+                "mtime": 1710918168,
+                "sha1": "d2a00731504948d31b94c770ba02cfddd6e9e1bc",
+                "size": 102,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road7o.obj": {
+                "mtime": 1710918168,
+                "sha1": "6a12f7297a945be5fc53bf7b028a3cd18f63d5c7",
+                "size": 882,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road7o.png": {
+                "mtime": 1709755826,
+                "sha1": "1de1327b35c20a82eaa28eb5cb4440003758ff71",
+                "size": 5227,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road7ody.mtl": {
+                "mtime": 1710918734,
+                "sha1": "15438db83971b9c4f5d814b06ab529a08fefe1b9",
+                "size": 104,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road7ody.obj": {
+                "mtime": 1710918734,
+                "sha1": "5c77fe53e652c483d6c1ccd69f31dfa038cbb2bc",
+                "size": 884,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/road7ody.png": {
+                "mtime": 1709751694,
+                "sha1": "31e1ea2f877a18f06dd71be3debc8ea75a6093e5",
+                "size": 5203,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/roads.json": {
+                "mtime": 1713628390,
+                "sha1": "18110ab4e74ad55b3802190857ec746213ebc775",
+                "size": 1677,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/soundbarrier.mtl": {
+                "mtime": 1705153674,
+                "sha1": "7b1ed2891f06cb817d6f4adf2ba63d737b1871b3",
+                "size": 101,
+                "blame": "alivekrikan"
+            },
+            "assets/mtrsteamloco/rails/soundbarrier.obj": {
+                "mtime": 1705153674,
+                "sha1": "3aea1ed63aca05d2407f0e57281e5e1c4fc59a1a",
+                "size": 1959,
                 "blame": "alivekrikan"
             }
         }
